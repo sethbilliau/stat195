@@ -51,5 +51,5 @@ for (sim in 1:Nsims){
 }
 
 
-mean(ols) + 2* sd(ols)
-mean(wls) - 2* sd(ols)
+mean(ols)
+mean(wls) 
